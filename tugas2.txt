@@ -1,0 +1,37 @@
+1. Buatlah array dua dimensi dengan isi nilai 5 baris & 5 kolom.  // 10
+2. Isi nilai bebas dalam bentuk angka / integer. // 20
+3. Ubah nilai index baris 3. // 20
+4. Hapus nilai baris pertama. // 25
+5. Tampilkan ke layar dengan mengguakan perulangan for. // 25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note : 
+Bagi yang mengerjakan via classroom harus memberikan komentar disetiap baris program.
+
+
+
+
+
+
+

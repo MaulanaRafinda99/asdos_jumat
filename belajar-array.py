@@ -1,0 +1,18 @@
+# Tanpa menggunakan array :
+namaBenda1 = "Labtop";
+namaBenda2 = "Smartphone";
+namaBenda3 = "Meja";
+
+# print(namaBenda1);
+# print(namaBenda2);
+# print(namaBenda3);
+print(type(namaBenda1));
+
+# Menggunakan array :
+namaBenda = ["Labtop", "Smartphone", "Meja"];
+print(namaBenda);
+print(type(namaBenda));
+
+# Menampilkan isi array dengen for :
+for x in namaBenda:
+    print(x);
